@@ -1,0 +1,12 @@
+A. Barrak, F. Petrillo and F. Jaafar, "Serverless on Machine Learning: A Systematic Mapping Study," in IEEE Access, vol. 10, pp. 99337-99352, 2022, doi: 10.1109/ACCESS.2022.3206366.
+keywords: {Cloud computing;Machine learning;Computational modeling;Computer architecture;Serverless computing;Data models;Serverless;FaaS;function as a service;machine learning;systematic mapping;systematic literature review;SM;SLR},
+
+W. D. Bae et al., "Synthetic Data Generation and Evaluation Techniques for Classifiers in Data Starved Medical Applications," in IEEE Access, vol. 13, pp. 16584-16602, 2025, doi: 10.1109/ACCESS.2025.3532222.
+keywords: {Autoencoders;Synthetic data;Predictive models;Data models;Medical services;Classification algorithms;Asthma;Training data;Generative adversarial networks;Boosting;Autoencoders;class imbalance problem;control coefficient;data starved contexts;rare event prediction;synthetic minority oversampling technique;transfer learning},
+
+C. Shin, B. Kim and S. Lee, "Bambda: A Real-Time Verification Framework for Serverless Computing," in IEEE Access, vol. 13, pp. 90896-90911, 2025, doi: 10.1109/ACCESS.2025.3572729.
+keywords: {Security;Serverless computing;Real-time systems;Logic gates;Containers;Cloud computing;Codes;Logic;Databases;Scalability;Serverless;cloud computing;access control},
+
+A. Manzoor, M. Samarin, D. Mason and M. Ylianttila, "Scavenger Hunt: Utilization of Blockchain and IoT for a Location-Based Game," in IEEE Access, vol. 8, pp. 204863-204879, 2020, doi: 10.1109/ACCESS.2020.3037182.
+keywords: {Games;Blockchain;Distributed ledger;Land mobile radio;Internet of Things;Computer architecture;Smart contracts;Blockchain;IoT;mobile-game;SOFIE;context-aware;hyperledger fabric},
+

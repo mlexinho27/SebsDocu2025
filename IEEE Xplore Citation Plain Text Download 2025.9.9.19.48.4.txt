@@ -1,0 +1,32 @@
+R. Kumar Behera, A. Kumari and S. -B. Cho, "Scalable Cold-Start Optimization in Serverless Computing: Leveraging Function Fusion With PanOpticon Simulator," in IEEE Access, vol. 13, pp. 125101-125118, 2025, doi: 10.1109/ACCESS.2025.3589393.
+keywords: {Serverless computing;Delays;Optimization;Containers;Costs;Computational modeling;Real-time systems;Scalability;Predictive models;Computer architecture;Serverless computing;cold-start;PanOpticon;function fusion;function-as-a-service;warm-start},
+
+K. Wang, J. Ma and E. M. . -K. Lai, "BriskChain: Decentralized Function Composition for High-Performance Serverless Computing," in IEEE Access, vol. 12, pp. 131313-131322, 2024, doi: 10.1109/ACCESS.2024.3439695.
+keywords: {Task analysis;Engines;Logic gates;Runtime;Schedules;Serverless computing;Codes;High performance computing;Serverless workflow;function as a service;worker-side pattern},
+
+J. R. Corporan, A. Bahga and V. K. Madisetti, "Function Delivery Network: A Spatial-Temporal Execution Orchestrator for Optimizing Serverless Computing," in IEEE Access, vol. 13, pp. 112255-112270, 2025, doi: 10.1109/ACCESS.2025.3583721.
+keywords: {Serverless computing;Computer architecture;Computational modeling;Optimization;Containers;Concurrent computing;Costs;Technological innovation;Codes;Adaptation models;Serverless computing;functions-as-a-service;lambda functions},
+
+P. Renukadevi, S. Amaran, A. Vikram, T. Prabhakara Rao and M. K. Ishak, "Enhancing Cybersecurity Through Fusion of Optimization With Deep Wavelet Neural Networks on Denial of Wallet Attack Detection in Serverless Computing," in IEEE Access, vol. 13, pp. 47111-47122, 2025, doi: 10.1109/ACCESS.2025.3550735.
+keywords: {Serverless computing;Computational modeling;Neural networks;Accuracy;Optimization;Costs;Smart contracts;Computer architecture;Blockchains;Tuning;Denial of wallet;deep wavelet neural network;cybersecurity;feature selection;serverless computing},
+
+C. Cicconetti, "Modeling and Performance Evaluation of Hybrid Classical–Quantum Serverless Computing Platforms," in IEEE Transactions on Quantum Engineering, vol. 6, pp. 1-13, 2025, Art no. 3101313, doi: 10.1109/TQE.2025.3567322.
+keywords: {Quantum computing;Optimization;Serverless computing;Containers;Computational modeling;Quantum circuit;Delays;Numerical models;Mathematical models;Logic gates;High-performance computing (HPC);hybrid computing;quantum approximate optimization algorithm (QAOA);quantum computing;quantum optimization;serverless computing;variational quantum computing;variational quantum eigensolver (VQE)},
+
+A. Tundo, F. Filippini, F. Regonesi, M. Ciavotta and M. Savi, "Decentralized Edge Workload Forecasting With Gossip Learning," in IEEE Transactions on Network and Service Management, vol. 22, no. 4, pp. 3016-3031, Aug. 2025, doi: 10.1109/TNSM.2025.3570450.
+keywords: {Peer-to-peer computing;Computational modeling;Forecasting;Training;Biological system modeling;Adaptation models;Edge computing;Robustness;Protocols;Data models;Edge computing;workload forecasting;gossip learning;function-as-a-service;machine learning},
+
+M. S. Abbas et al., "Edge Containerization: A Multivocal Review of Orchestration and Offloading Strategies," 2025 IEEE International Conference on Service-Oriented System Engineering (SOSE), Tucson, AZ, USA, 2025, pp. 178-189, doi: 10.1109/SOSE67019.2025.00025. keywords: {Adaptation models;Systematics;Service-oriented systems engineering;Navigation;Computational modeling;Scalability;Serverless computing;Time factors;Systematic literature review;Edge computing;Container;Edge;Orchestration},
+
+C. Cho, S. Shin, H. Jeon and S. Yoon, "QoS-Aware Workload Distribution in Hierarchical Edge Clouds: A Reinforcement Learning Approach," in IEEE Access, vol. 8, pp. 193297-193313, 2020, doi: 10.1109/ACCESS.2020.3033421.
+keywords: {Quality of service;Cloud computing;Time factors;Task analysis;Resource management;Edge computing;Reinforcement learning;Deep reinforcement learning;edge computing;resource allocation;workload distribution},
+
+L. Yu, L. Fu and S. Chenhao, "Serverless Cold Start Performance Optimization Based on Multi-Request Processing and Adaptive Hierarchical Scaling," in IEEE Access, vol. 12, pp. 136248-136262, 2024, doi: 10.1109/ACCESS.2024.3462389.
+keywords: {Optimization;Concurrent computing;Process control;Scheduling;Runtime;Job shop scheduling;Processor scheduling;Serverless computing;Performance evaluation;Serverless computing;cold start;performance optimization;adaptive scaling;multi-concurrency},
+
+M. Adeppady, A. Conte, P. Giaccone, H. Karl and C. Fabiana Chiasserini, "Dynamic Management of Constrained Computing Resources for Serverless Services," in IEEE Transactions on Network and Service Management, vol. 22, no. 2, pp. 1646-1663, April 2025, doi: 10.1109/TNSM.2024.3497155.
+keywords: {Energy consumption;Data centers;Power demand;Heuristic algorithms;System performance;Serverless computing;Microservice architectures;Containers;Dynamic scheduling;Service level agreements;Edge computing;cloud computing services;energy-aware management;orchestration},
+
+A. Khamis and P. Goswami, "Rethinking Vehicle Architecture Through Softwarization and Servitization," in IEEE Access, vol. 13, pp. 126213-126226, 2025, doi: 10.1109/ACCESS.2025.3588432.
+keywords: {Software;Computer architecture;Automotive engineering;Hardware;Biological system modeling;Business;Industries;Cloud computing;Adaptation models;Maintenance;Automotive Softwarization;feature-as-a-Service (FaaS);over-the-air (OTA) updates;servitization;software-defined vehicles (SDVs);vehicle E/E architecture},
+
